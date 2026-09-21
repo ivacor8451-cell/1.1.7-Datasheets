@@ -69,10 +69,10 @@ Use the table below to keep track of your sources before submitting.
 | Part Number | Manufacturer | Datasheet Link | Connection Diagram Located | Function Table Located |
 |---|---|---|---|---|
 | `74LS04` | Texas Instruments | (https://www.alldatasheet.com/datasheet-pdf/view/27365/TI/74LS04.html) | Yes / No | Yes / No |
-| `74LS08` | ___ | ___ | Yes / No | Yes / No |
-| `74LS32` | ___ | ___ | Yes / No | Yes / No |
-| `74LS74` | ___ | ___ | Yes / No | Yes / No |
-| `LM555` | ___ | ___ | Yes / No | Yes / No |
+| `74LS08` | FairChild | (https://www.alldatasheet.com/datasheet-pdf/view/51024/FAIRCHILD/74LS08.html) | Yes / No | Yes / No |
+| `74LS32` | Texas Instruments | (https://www.alldatasheet.com/datasheet-pdf/view/27420/TI/74LS32.html) | Yes / No | Yes / No |
+| `74LS74` | Hitachi Semiconductor | (https://www.alldatasheet.com/datasheet-pdf/view/64081/HITACHI/74LS74.html) | Yes / No | Yes / No |
+| `LM555` | Texas Instruments | (https://www.alldatasheet.com/datasheet-pdf/view/791941/TI1/LM555.html) | Yes / No | Yes / No |
 
 > **Image Placeholder:** Insert a screenshot or example of a datasheet connection diagram here.
 
