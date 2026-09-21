@@ -68,7 +68,7 @@ Use the table below to keep track of your sources before submitting.
 
 | Part Number | Manufacturer | Datasheet Link | Connection Diagram Located | Function Table Located |
 |---|---|---|---|---|
-| `74LS04` | Texas Instruments | (https://www.alldatasheet.com/datasheet-pdf/pdf/27365/TI/74LS04.html) | Yes / No | Yes / No |
+| `74LS04` | Texas Instruments | (https://www.alldatasheet.com/datasheet-pdf/view/27365/TI/74LS04.html) | Yes / No | Yes / No |
 | `74LS08` | ___ | ___ | Yes / No | Yes / No |
 | `74LS32` | ___ | ___ | Yes / No | Yes / No |
 | `74LS74` | ___ | ___ | Yes / No | Yes / No |
