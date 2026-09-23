@@ -145,11 +145,11 @@ Recreate and complete the following table in your PLTW Engineering Notebook.
 
 | Gate Name or Function | Gate Symbol | 74LS Series Part Number |
 |---|---|---|
-| 3-input AND gate | ___ | ___ |
-| 3-input NAND gate | ___ | ___ |
-| 4-input AND gate | ___ | ___ |
-| 4-input NAND gate | ___ | ___ |
-| 3-input NOR gate | ___ | ___ |
+| 3-input AND gate | ___ | 74LS11 |
+| 3-input NAND gate | ___ | 74LS10 |
+| 4-input AND gate | ___ | 74LS21 |
+| 4-input NAND gate | ___ | 74LS20 |
+| 3-input NOR gate | ___ | 74LS27 |
 
 > **Image Placeholder:** Insert an image of your table from your engineering notebook here.
 
