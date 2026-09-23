@@ -188,11 +188,11 @@ Recreate and complete the following table in your PLTW Engineering Notebook.
 
 | IC Package Abbreviation | Full Name | Your Drawing |
 |---|---|---|
-| DIP | ___ | Draw here |
-| SOIC | ___ | Draw here |
-| QFP | ___ | Draw here |
-| PLCC | ___ | Draw here |
-| BGA | ___ | Draw here |
+| DIP | Dual in line package | Draw here |
+| SOIC | Small Outline Integreated Circuit | Draw here |
+| QFP | Quad Flat Package | Draw here |
+| PLCC | Plastic Leaded Chip Carrier | Draw here |
+| BGA | Ball Grid Array | Draw here |
 
 > **Image Placeholder:** Insert an image from your notebook showing common IC package styles here.
 
