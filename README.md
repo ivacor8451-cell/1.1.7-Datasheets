@@ -303,27 +303,27 @@ Use your research and datasheets to answer the following questions.
 
 **What is the function of a `MAN6760`?**
 
-> _Write your answer here._
+> _The function is to provide a visual numeric readout._
 
 ### LM555 Timer
 
 **How many pins does an `LM555` timer have?**
 
-> _Write your answer here._
+> _8 pins._
 
 ### 74LS08
 
 **What is the maximum supply voltage for a `74LS08`?**
 
-> _Write your answer here._
+> _7V maximum._
 
 ## Summary Table
 
 | Component | Summary Answer |
 |---|---|
-| `MAN6760` | ___ |
-| `LM555` | ___ |
-| `74LS08` | ___ |
+| `MAN6760` | Visual numeric readout |
+| `LM555` | 8 pins |
+| `74LS08` | 7V |
 
 ---
 
