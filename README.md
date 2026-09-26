@@ -74,10 +74,14 @@ Use the table below to keep track of your sources before submitting.
 | `74LS74` | Hitachi Semiconductor | (https://www.alldatasheet.com/datasheet-pdf/view/64081/HITACHI/74LS74.html) | Yes | Yes |
 | `LM555` | Texas Instruments | (https://www.alldatasheet.com/datasheet-pdf/view/791941/TI1/LM555.html) | Yes | Yes |
 
+CONNECTION DIAGRAM
+
 <img width="520" height="382" alt="image" src="https://github.com/user-attachments/assets/b03a77db-3eb6-4ce4-b6b4-fc88bac5dd53" />
 
 
 <!-- IMAGE: Example IC datasheet connection diagram -->
+
+FUNCTION TABLE
 
 <img width="600" height="397" alt="image" src="https://github.com/user-attachments/assets/62317b38-6f5c-4275-8928-718b43c40548" />
 
