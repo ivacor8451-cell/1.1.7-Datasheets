@@ -269,27 +269,27 @@ Use the manufacturer datasheet you located for the `74LS04` hex inverter as a re
 
 **What is the nominal supply voltage, $V_{CC}$?**
 
-> _Write your answer here._
+> _5V_
 
 ### Operating Temperature
 
 **What is the maximum free-air operating temperature, $T_A$?**
 
-> _Write your answer here._
+> _0-70 degree celcius._
 
 ### Propagation Delay
 
 **What is the typical LOW-to-HIGH propagation delay, $t_{PLH}$?**
 
-> _Write your answer here._
+> _10 nanoseconds._
 
 ### IC Pin Spacing
 
 **What is the typical distance between two adjacent pins on a 14-pin dual in-line package?**
 
-> _Write your answer here._
+> _roughly 100 millimeters._
 
-> **Image Placeholder:** Insert a labeled 14-pin DIP package diagram showing adjacent pin spacing.
+<img width="480" height="354" alt="image" src="https://github.com/user-attachments/assets/5796dfc7-f976-43e6-80f2-988f566b9573" />
 
 <!-- IMAGE: 14-pin DIP package with pin pitch dimension -->
 
