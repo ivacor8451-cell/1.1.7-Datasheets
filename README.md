@@ -225,7 +225,7 @@ Locate the CHIPS Act quote provided by your instructor or course materials.
 
 **Summarize the quote in your own words.**
 
-> _Write your response here._
+> _A short summary I can make about this is that NIST will invest into breakthroughs in measurement science to ensure the next generation of microelectronics are still dominated by the United States._
 
 ## NIST Research
 
