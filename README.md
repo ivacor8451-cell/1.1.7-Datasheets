@@ -68,17 +68,19 @@ Use the table below to keep track of your sources before submitting.
 
 | Part Number | Manufacturer | Datasheet Link | Connection Diagram Located | Function Table Located |
 |---|---|---|---|---|
-| `74LS04` | Texas Instruments | (https://www.alldatasheet.com/datasheet-pdf/view/27365/TI/74LS04.html) | Yes / No | Yes / No |
-| `74LS08` | FairChild | (https://www.alldatasheet.com/datasheet-pdf/view/51024/FAIRCHILD/74LS08.html) | Yes / No | Yes / No |
-| `74LS32` | Texas Instruments | (https://www.alldatasheet.com/datasheet-pdf/view/27420/TI/74LS32.html) | Yes / No | Yes / No |
-| `74LS74` | Hitachi Semiconductor | (https://www.alldatasheet.com/datasheet-pdf/view/64081/HITACHI/74LS74.html) | Yes / No | Yes / No |
-| `LM555` | Texas Instruments | (https://www.alldatasheet.com/datasheet-pdf/view/791941/TI1/LM555.html) | Yes / No | Yes / No |
+| `74LS04` | Texas Instruments | (https://www.alldatasheet.com/datasheet-pdf/view/27365/TI/74LS04.html) | Yes | Yes |
+| `74LS08` | FairChild | (https://www.alldatasheet.com/datasheet-pdf/view/51024/FAIRCHILD/74LS08.html) | Yes | Yes |
+| `74LS32` | Texas Instruments | (https://www.alldatasheet.com/datasheet-pdf/view/27420/TI/74LS32.html) | Yes | Yes |
+| `74LS74` | Hitachi Semiconductor | (https://www.alldatasheet.com/datasheet-pdf/view/64081/HITACHI/74LS74.html) | Yes | Yes |
+| `LM555` | Texas Instruments | (https://www.alldatasheet.com/datasheet-pdf/view/791941/TI1/LM555.html) | Yes | Yes |
 
-> **Image Placeholder:** Insert a screenshot or example of a datasheet connection diagram here.
+<img width="520" height="382" alt="image" src="https://github.com/user-attachments/assets/b03a77db-3eb6-4ce4-b6b4-fc88bac5dd53" />
+
 
 <!-- IMAGE: Example IC datasheet connection diagram -->
 
-> **Image Placeholder:** Insert a screenshot or example of a datasheet function table here.
+<img width="600" height="397" alt="image" src="https://github.com/user-attachments/assets/62317b38-6f5c-4275-8928-718b43c40548" />
+
 
 <!-- IMAGE: Example IC datasheet function table -->
 
